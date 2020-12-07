@@ -1,6 +1,6 @@
 # Active Directory
 
-##Solution:
+## Solution:
 
 People might be aware of “Group Policy Preferences” in Windows Server 2008 that allows system administrators to set up specific configurations. It can be used to create a username and encrypted password on machines. But do you know, that a normal user can elevate privilege to the local administrator and probably compromise the security of the entire domain because passwords in preference items are not secured?
 
