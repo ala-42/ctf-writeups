@@ -1,10 +1,10 @@
 # destroyed
 
-##solution:
+## solution:
 
 running strings on the **destroyed.elf** i saw many references to files in windows filesystem let's use volatility then
 
-```volatility -f volatility destroyed.elf -f imageinfo ```
+```volatility -f destroyed.elf -f imageinfo ```
 
 the first thing i always do is to check the files 
 

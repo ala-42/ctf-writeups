@@ -6,7 +6,7 @@ this is a super guessy challenge
 
 unzip the file and we get 2 files: **GIFTS.jpg** and **XMAS.jpg**
 
-typical stego challenge, first i run steghide on XMAS.jpeg after a lot of guess is used the password **XMAS** and i got a file **xmas.txt**
+typical stego challenge, first i run steghide on XMAS.jpeg after a lot of guess i used the password **XMAS** and i got a file **xmas.txt**
 
 ```
 --- Message from Santa Claus ---
