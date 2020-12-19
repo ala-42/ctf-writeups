@@ -1,0 +1,4 @@
+--- Message from Santa Claus ---
+
+Did you know that base64 can be used for encoding scripts and websites?
+Maybe we can use it for our gifts.
